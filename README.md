@@ -23,6 +23,8 @@ As a fan of ZilpZalp/Hummingbird projects i decided make something with same lay
 - Design with a definite assembly variant
 - Go through the steps in the keyboard design that I have already tried
 
+## Features
+
 ## Layout
 
 ## BOM
