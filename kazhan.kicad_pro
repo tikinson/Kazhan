@@ -555,7 +555,7 @@
       "pos_files": "",
       "specctra_dsn": "",
       "step": "",
-      "svg": "",
+      "svg": "img/renders/",
       "vrml": ""
     },
     "page_layout_descr_file": ""
