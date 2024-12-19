@@ -13628,6 +13628,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C470322"
+			(at 369.57 179.07 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "5"
 			(uuid "11510811-73a2-43bf-a07e-e3d62d689886")
 		)
@@ -14627,6 +14636,15 @@
 		)
 		(property "Description" ""
 			(at 37.084 182.372 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C470322"
+			(at 41.91 181.61 90)
 			(effects
 				(font
 					(size 1.27 1.27)
